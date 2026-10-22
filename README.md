@@ -58,6 +58,10 @@ Full list: [recommendations](04-recommendations/recommendations.md) | [30/60/90-
 | [05-deliverables](05-deliverables/) | Full report as Word and PDF |
 | [glossary.md](glossary.md) / [sources.md](sources.md) | Plain-language terms; every source cited |
 
+## Related projects
+
+- [AI-Assisted Risk Analysis: Prompt Playbook and Worked Example](https://github.com/Starboy1968/ai-assisted-risk-analysis) - reusable GRC prompt, AI draft vs human review, corrected risk register on the same 1-5 scale.
+
 ## Author
 
 Rashon Alsberry, supply chain and third-party risk analyst - [starboy1968.github.io](https://starboy1968.github.io)
